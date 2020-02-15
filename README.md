@@ -1,2 +1,2 @@
 # kate
-<a href='https://katelinm.github.io/kate'>portfiloi</a>
+<a href='https://katelinm.github.io/kate'>portfolio</a>
