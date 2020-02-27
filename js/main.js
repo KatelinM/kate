@@ -58,7 +58,7 @@ $( ".content" ).scroll(function() {
 
     if ($('.show3').visible(true,true)) {
         $('.show3').addClass("animated slideInLeft opacity-1");
-        $(".background").css("background", "linear-gradient(#1abc9c, #16a085)");
+        $(".background").css("background", "linear-gradient(#AD1457, #E91E63)");
     }
 
     if ($('.show4').visible(true,true)) {
