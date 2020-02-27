@@ -341,8 +341,8 @@ video:focus {
 }
 
 .js {
-	background-color: #9B59B6;
-	width: 50%;
+	background-color: #2ECC71;
+	width: 80%;
 }
 
 .jquery {
@@ -351,12 +351,12 @@ video:focus {
 }
 
 .react {
-	width: 10%;
-	background-color: #E67E22;
+	width: 70%;
+	background-color: #2ECC71;
 }
 
 .vue {
-	width: 10%;
+	width: 40%;
 	background-color: #E67E22;
 }
 
